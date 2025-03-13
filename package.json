@@ -1,0 +1,29 @@
+{
+  "name": "crawl4ai-mcp",
+  "version": "1.0.0",
+  "description": "An MCP Server for web crawling AI tasks",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-crawling",
+    "ai",
+    "mcp",
+    "crawler"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.18.0",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^12.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^22.6.0",
+    "winston": "^3.12.0"
+  }
+}
