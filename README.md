@@ -1,3 +1,5 @@
+*** THIS IS NOT A FUNCTIONAL MCP - IT WAS A LEARNING TOOL I WOULD COME BACK TO WHEN I HAD SPARE TIME ***
+
 # Crawl4AI MCP Server
 
 An MCP (Model-Controller-Processor) Server for intelligent web crawling and AI-powered content analysis. This server provides a simple API for crawling websites and processing the content using Claude AI models.
